@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://moonshinean.com/friends/index.html</loc>
+    
+    <lastmod>2021-04-08T12:31:09.266Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://moonshinean.com/contact/index.html</loc>
+    
+    <lastmod>2021-04-08T12:30:34.205Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://moonshinean.com/about/index.html</loc>
     
     <lastmod>2021-04-08T08:46:26.768Z</lastmod>
@@ -54,20 +68,6 @@
     <loc>http://moonshinean.com/tags/index.html</loc>
     
     <lastmod>2021-04-07T07:06:29.251Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://moonshinean.com/friends/index.html</loc>
-    
-    <lastmod>2021-04-07T07:06:29.250Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://moonshinean.com/contact/index.html</loc>
-    
-    <lastmod>2021-04-07T07:06:29.250Z</lastmod>
     
   </url>
   

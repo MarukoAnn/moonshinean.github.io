@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Moonshine的博客</title>
+  
+  <subtitle>技术分享</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://moonshinean.com/"/>
+  <updated>2021-04-07T08:53:01.341Z</updated>
+  <id>http://moonshinean.com/</id>
+  
+  <author>
+    <name>Moonshine</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git | 常用命令</title>
+    <link href="http://moonshinean.com/2021/01/27/git-shi-yong-ming-ling/"/>
+    <id>http://moonshinean.com/2021/01/27/git-shi-yong-ming-ling/</id>
+    <published>2021-01-27T07:27:31.000Z</published>
+    <updated>2021-04-07T08:53:01.341Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1、git初始化仓库&quot;&gt;&lt;a href=&quot;#1、git初始化仓库&quot; class=&quot;headerlink&quot; title=&quot;1、git初始化仓库&quot;&gt;&lt;/a&gt;1、git初始化仓库&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;   git init 
+        
+      
+    
+    </summary>
+    
+      <category term="git" scheme="http://moonshinean.com/categories/git/"/>
+    
+      <category term="随笔" scheme="http://moonshinean.com/categories/git/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="博客" scheme="http://moonshinean.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="git" scheme="http://moonshinean.com/tags/git/"/>
+    
+      <category term="命令" scheme="http://moonshinean.com/tags/%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Javascript中数据类型那些可能会中招的细节</title>
+    <link href="http://moonshinean.com/2021/01/27/javascript/javascript-shu-ju-lei-xing-na-xie-ke-neng-hui-zhong-zhao-de-xi-jie/"/>
+    <id>http://moonshinean.com/2021/01/27/javascript/javascript-shu-ju-lei-xing-na-xie-ke-neng-hui-zhong-zhao-de-xi-jie/</id>
+    <published>2021-01-27T07:27:31.000Z</published>
+    <updated>2021-04-07T08:59:35.386Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://moonshinean.com/categories/JavaScript/"/>
+    
+    
+      <category term="数据类型" scheme="http://moonshinean.com/tags/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    
+      <category term="javascript" scheme="http://moonshinean.com/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>javascript中this指向探索</title>
+    <link href="http://moonshinean.com/2021/01/27/javascript/this-de-zhi-xiang-tan-suo/"/>
+    <id>http://moonshinean.com/2021/01/27/javascript/this-de-zhi-xiang-tan-suo/</id>
+    <published>2021-01-27T07:27:31.000Z</published>
+    <updated>2021-04-07T08:51:32.838Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;h3 id=&quot;一、普通函数调用&quot;&gt;&lt;a href=&quot;#一、普通函数调用&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://moonshinean.com/categories/JavaScript/"/>
+    
+    
+      <category term="javascript" scheme="http://moonshinean.com/tags/javascript/"/>
+    
+      <category term="this" scheme="http://moonshinean.com/tags/this/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript揭秘之原型和原型链</title>
+    <link href="http://moonshinean.com/2021/01/27/javascript/javascript-jie-mi-zhi-yuan-xing-he-yuan-xing-lian/"/>
+    <id>http://moonshinean.com/2021/01/27/javascript/javascript-jie-mi-zhi-yuan-xing-he-yuan-xing-lian/</id>
+    <published>2021-01-27T07:27:31.000Z</published>
+    <updated>2021-04-07T08:56:18.276Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="http://moonshinean.com/categories/JavaScript/"/>
+    
+    
+      <category term="javascript" scheme="http://moonshinean.com/tags/javascript/"/>
+    
+      <category term="原型" scheme="http://moonshinean.com/tags/%E5%8E%9F%E5%9E%8B/"/>
+    
+      <category term="prototyoe" scheme="http://moonshinean.com/tags/prototyoe/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm发布组件库的流程</title>
+    <link href="http://moonshinean.com/2021/01/26/npm/npm-fa-bu-zu-jian-ku-de-liu-cheng/"/>
+    <id>http://moonshinean.com/2021/01/26/npm/npm-fa-bu-zu-jian-ku-de-liu-cheng/</id>
+    <published>2021-01-25T16:00:00.000Z</published>
+    <updated>2021-04-07T08:52:07.869Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;1、首先去npm官网注册自己的账号密码&lt;br&gt;2、在项目文件夹中打开命令行  输入 npm login命令，然后输入用户名密码邮箱登录&lt;br&gt;3、成功后，输入npm publish发布(此处应保证为npm原始镜像，并非淘宝镜像)
+        
+      
+    
+    </summary>
+    
+      <category term="npm服务器" scheme="http://moonshinean.com/categories/npm%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="npm" scheme="http://moonshinean.com/tags/npm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm私有服务器搭建</title>
+    <link href="http://moonshinean.com/2021/01/25/npm/npm-si-you-fu-wu-qi-da-jian/"/>
+    <id>http://moonshinean.com/2021/01/25/npm/npm-si-you-fu-wu-qi-da-jian/</id>
+    <published>2021-01-24T16:00:00.000Z</published>
+    <updated>2021-04-07T08:52:11.775Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;一、搭建npm私有服务器&quot;&gt;&lt;a href=&quot;#一、搭建npm私有服务器&quot; class=&quot;headerlink&quot; title=&quot;一、搭建npm私有服务器&quot;&gt;&lt;/a&gt;一、搭建npm私有服务器&lt;/h3&gt;&lt;p&gt;1、首先安装 Node,然后输入以下命令，安装
+        
+      
+    
+    </summary>
+    
+      <category term="npm服务器" scheme="http://moonshinean.com/categories/npm%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="npm" scheme="http://moonshinean.com/tags/npm/"/>
+    
+      <category term="服务器" scheme="http://moonshinean.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+</feed>
